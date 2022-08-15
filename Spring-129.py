@@ -52,7 +52,7 @@ class compression:
                     Deep_long=12000
                     Deep_long_All=Deep_long*16
                     block_size_long=16
-                    Times_compression=100
+                    Times_compression=1000
                     	
                     nameas=name+".bin"
                 
@@ -471,7 +471,7 @@ class compression:
                     Deep_long=12000
                     Deep_long_All=Deep_long*16
                     block_size_long=16
-                    Times_compression=100
+                    Times_compression=1000
                     	
                     
                     
